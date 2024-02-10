@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 const useFetchServices = () => {
   const [services, setServices] = useState([]);
   useEffect(() => {
-    fetch(`http://localhost:3000/services`)
+    fetch(`https://car-doctor-server-site-khaki.vercel.app/services`)
       .then((res) => res.json())
       .then((data) => setServices(data));
   }, []);

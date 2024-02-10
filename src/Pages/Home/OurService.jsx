@@ -10,7 +10,7 @@ const OurService = () => {
   // const [max setMax] = useState(undefined);
 
   useEffect(() => {
-    fetch(`http://localhost:3000/services1?sort=${acd ? "acd" : "dcd"}&search=${search}`)
+    fetch(`https://car-doctor-server-site-khaki.vercel.app/services1?sort=${acd ? "acd" : "dcd"}&search=${search}`)
       .then((res) => res.json())
       .then((data) => setService(data));
   }, [acd, search]);

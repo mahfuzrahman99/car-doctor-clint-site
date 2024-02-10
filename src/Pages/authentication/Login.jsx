@@ -28,7 +28,7 @@ const Login = () => {
         // get access token
         const user = { email };
         axios
-          .post("http://localhost:3000/jwt", user, { withCredentials: true })
+          .post("https://car-doctor-server-site-khaki.vercel.app/jwt", user, { withCredentials: true })
           .then((res) => {
             if(res.data.success){
               swal("Success!", "Login Successfully!", "success");

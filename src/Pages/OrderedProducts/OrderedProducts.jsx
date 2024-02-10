@@ -17,9 +17,9 @@ const OrderedProducts = () => {
   useEffect(() => {
     let url;
     if (user?.email === "mahfuzurrahmanshabbir@gmail.com") {
-      url = `http://localhost:3000/bookingsAll`;
+      url = `https://car-doctor-server-site-khaki.vercel.app/bookingsAll`;
     } else {
-      url = `http://localhost:3000/bookings?email=${user?.email}`;
+      url = `https://car-doctor-server-site-khaki.vercel.app/bookings?email=${user?.email}`;
     }
 
     axios.get(url, { withCredentials: true }).then((res) => {

@@ -40,7 +40,7 @@ const router = createBrowserRouter([
           </PrivetRout>
         ),
         loader: ({ params }) =>
-          fetch(`http://localhost:3000/services/${params.id}`),
+          fetch(`https://car-doctor-server-site-khaki.vercel.app/services/${params.id}`),
       },
       {
         path: "/order",
@@ -58,7 +58,7 @@ const router = createBrowserRouter([
           </PrivetRout>
         ),
         loader: ({ params }) =>
-          fetch(`http://localhost:3000/services/${params.id}`),
+          fetch(`https://car-doctor-server-site-khaki.vercel.app/services/${params.id}`),
       },
       {
         path: "/productAppointment/:id",
@@ -68,7 +68,7 @@ const router = createBrowserRouter([
           </PrivetRout>
         ),
         loader: ({ params }) =>
-          fetch(`http://localhost:3000/products/${params.id}`),
+          fetch(`https://car-doctor-server-site-khaki.vercel.app/products/${params.id}`),
       },
       {
         path: "/serviceDetails/:id",
@@ -78,7 +78,7 @@ const router = createBrowserRouter([
           </PrivetRout>
         ),
         loader: ({ params }) =>
-          fetch(`http://localhost:3000/services/${params.id}`),
+          fetch(`https://car-doctor-server-site-khaki.vercel.app/services/${params.id}`),
       },
       {
         path: "/productDetails/:id",
@@ -88,7 +88,7 @@ const router = createBrowserRouter([
           </PrivetRout>
         ),
         loader: ({ params }) =>
-          fetch(`http://localhost:3000/products/${params.id}`),
+          fetch(`https://car-doctor-server-site-khaki.vercel.app/products/${params.id}`),
       },
       {
         path:"/allServices",

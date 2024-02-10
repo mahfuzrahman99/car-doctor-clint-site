@@ -33,7 +33,7 @@ const Checkout = () => {
 
     // Check if the booking is already in the 'booked' state
     if (!booked) {
-      fetch('http://localhost:3000/bookings', {
+      fetch('https://car-doctor-server-site-khaki.vercel.app/bookings', {
         method: 'POST',
         headers: {
           'content-type': 'application/json',
