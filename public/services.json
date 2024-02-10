@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "serviceName": "Oil Change",
+    "image": "https://i.ibb.co/qrypVJX/download.jpg",
+    "price": 30,
+    "serviceDetails": "An oil change is a routine maintenance service that involves draining old engine oil and replacing it with fresh, clean oil. It is essential for keeping your engine running smoothly and efficiently. During an oil change, the oil filter is also typically replaced to ensure optimal filtration of contaminants. Regular oil changes help prolong the life of your engine, improve fuel economy, and reduce harmful emissions. Our professional technicians will perform a thorough oil change using high-quality oil and filters, giving you peace of mind and keeping your vehicle running at its best."
+  },
+  {
+    "id": 2,
+    "serviceName": "Tire Rotation",
+    "image": "https://i.ibb.co/mqSmW6n/download-1.jpg",
+    "price": 20,
+    "serviceDetails": "Tire rotation is a maintenance service that involves moving each tire to a different position on the vehicle. This helps ensure even tire wear, extends the life of your tires, and improves overall handling and safety. During a tire rotation, our technicians will inspect the tires for signs of uneven wear, damage, or other issues. We will then rotate the tires according to the recommended pattern for your vehicle, typically moving the front tires to the rear and vice versa. Regular tire rotations are essential for maintaining optimal traction, stability, and performance, as well as maximizing the lifespan of your tires."
+  },
+  {
+    "id": 3,
+    "serviceName": "Brake Inspection",
+    "image": "https://i.ibb.co/HTdGDFL/download-2.jpg",
+    "price": 0,
+    "serviceDetails": "A brake inspection is a crucial safety service that involves checking the condition of your vehicle's braking system. Our technicians will inspect the brake pads, rotors, calipers, brake lines, and fluid levels to ensure everything is in good working order. We'll look for signs of wear, damage, or brake fluid leaks that could compromise your vehicle's braking performance. If any issues are found during the inspection, we'll recommend the necessary repairs or replacements to keep your brakes functioning properly and your vehicle safe on the road. Regular brake inspections are essential for maintaining optimal braking performance and preventing potential accidents."
+  },
+  {
+    "id": 4,
+    "serviceName": "Wheel Alignment",
+    "image": "https://i.ibb.co/8Kyj7F0/download-3.jpg",
+    "price": 60,
+    "serviceDetails": "Wheel alignment, also known as tire alignment, is a maintenance service that ensures your vehicle's wheels are properly aligned according to the manufacturer's specifications. Proper wheel alignment is essential for optimal handling, steering response, and tire wear. During a wheel alignment service, our technicians will use specialized equipment to adjust the angles of the wheels to the correct positions. We'll check the camber, caster, and toe angles to ensure they are within the recommended range. Correcting wheel alignment issues can improve fuel efficiency, reduce tire wear, and enhance overall driving comfort and safety."
+  },
+  {
+    "id": 5,
+    "serviceName": "Battery Replacement",
+    "image": "https://i.ibb.co/RShmhD0/download-4.jpg",
+    "price": 100,
+    "serviceDetails": "A battery replacement is a service that involves removing the old battery from your vehicle and installing a new one. Car batteries typically last between 3 to 5 years, depending on factors such as driving habits, weather conditions, and maintenance. If your battery is old, weak, or failing, it may struggle to hold a charge or start your vehicle reliably. Our technicians will inspect the battery, cables, and terminals for signs of corrosion, damage, or other issues. If a replacement is needed, we'll help you select the right battery for your vehicle and install it properly to ensure reliable starting power in all conditions."
+  },
+  {
+    "id": 6,
+    "serviceName": "Air Filter Replacement",
+    "image": "https://i.ibb.co/Rh7mD2t/download-5.jpg",
+    "price": 15,
+    "serviceDetails": "An air filter replacement is a maintenance service that involves replacing the engine air filter with a new one. The air filter is responsible for filtering out dirt, dust, pollen, and other contaminants from the air entering the engine. Over time, the air filter can become dirty and clogged, restricting airflow and reducing engine performance and fuel efficiency. Our technicians will inspect the air filter during routine maintenance services and recommend replacement if it's dirty or worn out. Installing a new air filter can improve engine performance, acceleration, and fuel economy, as well as prolong the life of your engine."
+  },
+  {
+    "id": 7,
+    "serviceName": "Coolant Flush",
+    "image": "https://i.ibb.co/ScVHj2f/images.jpg",
+    "price": 50,
+    "serviceDetails": "A coolant flush, also known as a radiator flush, is a maintenance service that involves draining the old coolant from your vehicle's cooling system and replacing it with fresh coolant. Coolant helps regulate engine temperature and prevent overheating by dissipating heat away from the engine. Over time, coolant can become contaminated with dirt, rust, and other debris, reducing its effectiveness and potentially causing engine damage. Our technicians will flush the old coolant from your vehicle's cooling system and refill it with the correct type and mixture of coolant recommended by the manufacturer. This helps ensure optimal cooling system performance and engine reliability, especially in hot weather or heavy-duty driving conditions."
+  },
+  {
+    "id": 8,
+    "serviceName": "Transmission Service",
+    "image": "https://i.ibb.co/5Fdwzz1/download-6.jpg",
+    "price": 80,
+    "serviceDetails": "Transmission service is a maintenance procedure that involves draining old transmission fluid, replacing the filter (if applicable), and refilling the transmission with fresh fluid. The transmission is a critical component of your vehicle's drivetrain, responsible for shifting gears and transferring power from the engine to the wheels. Over time, transmission fluid can become contaminated with dirt, debris, and metal particles, leading to increased friction and wear on transmission components. Our technicians will perform a thorough transmission service to help maintain smooth shifting, reduce wear and tear, and extend the lifespan of your transmission. Regular transmission maintenance is essential for optimal performance and reliability of your vehicle."
+  },
+  {
+    "id": 9,
+    "serviceName": "Spark Plug Replacement",
+    "image": "https://i.ibb.co/T1Nyz8W/download-7.jpg",
+    "price": 40,
+    "serviceDetails": "Spark plug replacement is a maintenance service that involves removing old spark plugs from the engine and installing new ones. Spark plugs play a crucial role in the ignition process, producing the spark needed to ignite the air-fuel mixture in the engine's cylinders. Over time, spark plugs can become fouled, worn, or corroded, leading to misfires, rough idling, and reduced fuel efficiency. Our technicians will inspect the spark plugs during routine maintenance services and recommend replacement if they are worn out or past their recommended service interval. Installing new spark plugs can improve engine performance, fuel economy, and emissions, ensuring your vehicle runs smoothly and efficiently."
+  },
+  {
+    "id": 10,
+    "serviceName": "Headlight Restoration",
+    "image": "https://i.ibb.co/68SChn7/download-8.jpg",
+    "price": 25,
+    "serviceDetails": "Headlight restoration is a cosmetic service that involves restoring clarity and brightness to cloudy or yellowed headlights. Over time, exposure to sunlight, harsh weather, and road debris can cause the plastic lenses of your headlights to become oxidized and discolored, reducing visibility and aesthetics. Our technicians will carefully sand, polish, and seal the headlights to remove the oxidized layer and restore optical clarity. This not only improves visibility and safety while driving at night or in low-light conditions but also enhances the appearance and resale value of your vehicle. Headlight restoration is a cost-effective alternative to replacing the entire headlight assembly and can significantly improve the overall look and performance of your vehicle."
+  },
+  {
+    "id": 11,
+    "serviceName": "Engine Tune-Up",
+    "image": "https://i.ibb.co/zmHh8x8/download.jpg",
+    "price": 80,
+    "serviceDetails": "An engine tune-up is a comprehensive maintenance service designed to optimize the performance and efficiency of your vehicle's engine. During a tune-up, our technicians will inspect and adjust various components of the engine, including spark plugs, ignition timing, fuel injectors, and emission controls. We'll also replace worn or malfunctioning parts as needed, such as air filters, fuel filters, and PCV valves. Additionally, we'll perform diagnostic tests to identify any potential issues or areas for improvement. A properly tuned engine runs more smoothly, efficiently, and reliably, resulting in improved fuel economy, reduced emissions, and enhanced overall driving experience."
+  },
+  {
+    "id": 12,
+    "serviceName": "Wheel Balancing",
+    "image": "https://i.ibb.co/K6rcXPL/images.jpg",
+    "price": 25,
+    "serviceDetails": "Wheel balancing is a maintenance service that involves adjusting the weight distribution of a vehicle's wheels to ensure they rotate evenly. Imbalanced wheels can cause uneven tire wear, vibrations, and steering instability, leading to decreased handling and comfort. During a wheel balancing service, our technicians will use specialized equipment to measure the imbalance and add or remove weights as needed to achieve proper balance. We'll also inspect the tires for signs of damage, wear, or improper inflation. Properly balanced wheels improve tire longevity, vehicle stability, and overall driving performance, making it an essential maintenance procedure for all vehicles."
+  },
+  {
+    "id": 13,
+    "serviceName": "Radiator Flush",
+    "image": "https://i.ibb.co/kXbcJGm/download-1.jpg",
+    "price": 50,
+    "serviceDetails": "A radiator flush, also known as a cooling system flush, is a maintenance service that involves draining the old coolant from your vehicle's radiator and replacing it with fresh coolant. Coolant helps regulate engine temperature by absorbing and dissipating heat generated during combustion. Over time, coolant can become contaminated with dirt, rust, and other debris, reducing its effectiveness and potentially causing overheating or engine damage. Our technicians will perform a thorough radiator flush to remove the old coolant, debris, and contaminants from your vehicle's cooling system. We'll then refill it with the correct type and mixture of coolant recommended by the manufacturer. This helps ensure optimal cooling system performance and engine reliability, especially in extreme temperatures or heavy-duty driving conditions."
+  },
+  {
+    "id": 14,
+    "serviceName": "Fuel System Cleaning",
+    "image": "https://i.ibb.co/bbr7R2h/download-2.jpg",
+    "price": 70,
+    "serviceDetails": "Fuel system cleaning is a maintenance service that involves removing carbon deposits, varnish, and other contaminants from your vehicle's fuel system. Over time, these deposits can accumulate in the fuel injectors, intake valves, and combustion chamber, causing poor engine performance, rough idling, and decreased fuel efficiency. Our technicians will use specialized cleaning agents and equipment to safely and effectively clean the fuel system components. We'll also inspect the fuel filter and fuel lines for signs of damage or clogging and replace them if necessary. A clean fuel system ensures proper fuel delivery, combustion, and engine performance, resulting in improved fuel economy, reduced emissions, and smoother operation."
+  },
+  {
+    "id": 15,
+    "serviceName": "Power Steering Fluid Flush",
+    "image": "https://i.ibb.co/KN3d3Dn/download-3.jpg",
+    "price": 45,
+    "serviceDetails": "A power steering fluid flush is a maintenance service that involves removing old, contaminated power steering fluid from your vehicle's power steering system and replacing it with fresh fluid. Power steering fluid helps lubricate and provide hydraulic pressure to assist with steering, making it easier to turn the steering wheel. Over time, power steering fluid can break down, become contaminated, or develop leaks, resulting in stiff or noisy steering, fluid leaks, or damage to the power steering pump or rack. Our technicians will perform a complete flush of the power steering system to remove any old fluid, debris, or contaminants and refill it with the appropriate type of fluid recommended by the manufacturer. This helps ensure smooth, responsive steering and prolongs the life of your power steering components."
+  },
+  {
+    "id": 16,
+    "serviceName": "Cabin Air Filter Replacement",
+    "image": "https://i.ibb.co/89sdY0x/download-4.jpg",
+    "price": 20,
+    "serviceDetails": "A cabin air filter replacement is a maintenance service that involves replacing the filter that cleans the air entering the passenger compartment of your vehicle. The cabin air filter helps remove dust, pollen, allergens, and other airborne particles from the air you breathe inside the car. Over time, the cabin air filter can become clogged with dirt and debris, reducing its effectiveness and causing unpleasant odors, reduced airflow, and potential health issues. Our technicians will inspect the cabin air filter during routine maintenance services and replace it if it's dirty or clogged. Installing a new cabin air filter improves air quality inside the vehicle, reduces allergens and odors, and ensures a comfortable and healthy driving environment for you and your passengers."
+  },
+  {
+    "id": 17,
+    "serviceName": "Exhaust System Inspection",
+    "image": "https://i.ibb.co/zmQSprV/images.jpg",
+    "price": 0,
+    "serviceDetails": "An exhaust system inspection is a diagnostic service that involves checking the condition of your vehicle's exhaust system, including the muffler, catalytic converter, exhaust pipes, and oxygen sensors. The exhaust system plays a crucial role in reducing harmful emissions, directing exhaust gases away from the engine, and minimizing noise. Our technicians will visually inspect the exhaust system for signs of damage, leaks, rust, or other issues. We'll also perform a pressure test and use diagnostic equipment to check for exhaust leaks, excessive emissions, or sensor malfunctions. If any problems are found during the inspection, we'll recommend the necessary repairs or replacements to ensure your vehicle meets emissions standards, operates quietly, and runs efficiently."
+  },
+  {
+    "id": 18,
+    "serviceName": "Spark Plug Inspection",
+    "image": "https://i.ibb.co/H243sdg/download.jpg",
+    "price": 0,
+    "serviceDetails": "A spark plug inspection is a diagnostic service that involves checking the condition and gap of the spark plugs in your vehicle's engine. Spark plugs play a crucial role in the ignition process, producing the spark needed to ignite the air-fuel mixture in the engine's cylinders. Our technicians will visually inspect the spark plugs for signs of wear, fouling, or damage, such as worn electrodes, cracked insulators, or oil fouling. We'll also measure the spark plug gap to ensure it's within the manufacturer's specifications. If any issues are found during the inspection, we'll recommend the necessary repairs or replacements to ensure proper engine performance, fuel economy, and emissions compliance."
+  },
+  {
+    "id": 19,
+    "serviceName": "Air Conditioning Service",
+    "image": "https://i.ibb.co/kDJ1fn8/download-1.jpg",
+    "price": 55,
+    "serviceDetails": "Air conditioning service is a maintenance service that involves inspecting, cleaning, and recharging the refrigerant in your vehicle's air conditioning system. Proper maintenance of the air conditioning system is essential for keeping your vehicle cool and comfortable, especially during hot summer months. Our technicians will visually inspect the air conditioning system for signs of leaks, damage, or wear, including the compressor, condenser, evaporator, and hoses. We'll also clean or replace the cabin air filter and inspect the drive belt and pulleys for proper tension and alignment. If the refrigerant level is low, we'll recharge the system with the correct type and amount of refrigerant to restore proper cooling performance. Regular air conditioning service helps ensure optimal comfort and performance, reduces energy consumption, and prolongs the life of your air conditioning components."
+  },
+  {
+    "id": 20,
+    "serviceName": "Wheel Alignment",
+    "image": "https://i.ibb.co/R06McFt/download-2.jpg",
+    "price": 60,
+    "serviceDetails": "Wheel alignment, also known as tire alignment, is a maintenance service that ensures your vehicle's wheels are properly aligned according to the manufacturer's specifications. Proper wheel alignment is essential for optimal handling, steering response, and tire wear. During a wheel alignment service, our technicians will use specialized equipment to adjust the angles of the wheels to the correct positions. We'll check the camber, caster, and toe angles to ensure they are within the recommended range. Correcting wheel alignment issues can improve fuel efficiency, reduce tire wear, and enhance overall driving comfort and safety."
+  },
+  {
+    "id": 21,
+    "serviceName": "Brake Pad Replacement",
+    "image": "https://i.ibb.co/BrPhRxp/download-3.jpg",
+    "price": 90,
+    "serviceDetails": "Brake pad replacement is a critical maintenance service that involves removing old, worn brake pads from the calipers and installing new ones. Brake pads are essential for stopping your vehicle safely by creating friction against the brake rotors. Over time, brake pads wear down due to normal use and need to be replaced to maintain proper braking performance. Our technicians will inspect the brake pads, rotors, calipers, and brake fluid levels during this service to ensure everything is in good working order. We'll also check for signs of brake wear, such as squealing or grinding noises, pulsating brake pedal, or longer stopping distances. Properly functioning brakes are essential for safe driving, and regular brake pad replacement helps prevent accidents and prolongs the life of your braking system."
+  },
+  {
+    "id": 22,
+    "serviceName": "Cooling System Pressure Test",
+    "image": "https://i.ibb.co/bLkxvch/download-4.jpg",
+    "price": 35,
+    "serviceDetails": "A cooling system pressure test is a diagnostic service that involves pressurizing your vehicle's cooling system to check for leaks or other issues. The cooling system is responsible for regulating engine temperature by circulating coolant through the radiator, engine block, and heater core. A pressure test helps identify any leaks or weak points in the cooling system, such as hoses, radiator, water pump, or head gasket. Our technicians will use specialized equipment to pressurize the cooling system and monitor for any drop in pressure, indicating a leak. If a leak is detected, we'll recommend the necessary repairs to prevent overheating, engine damage, or coolant loss. Regular cooling system pressure tests are essential for maintaining optimal engine temperature and preventing costly repairs down the road."
+  },
+  {
+    "id": 23,
+    "serviceName": "Wheel Bearing Replacement",
+    "image": "https://i.ibb.co/VjT1n26/download-5.jpg",
+    "price": 120,
+    "serviceDetails": "Wheel bearing replacement is a maintenance service that involves removing old, worn wheel bearings from the hub assembly and installing new ones. Wheel bearings support the weight of the vehicle and allow the wheels to rotate smoothly. Over time, wheel bearings can become worn or damaged due to heat, moisture, or lack of lubrication, resulting in noise, vibration, or uneven tire wear. Our technicians will inspect the wheel bearings for signs of wear, play, or damage during routine maintenance or when symptoms are present. If replacement is necessary, we'll use high-quality bearings and ensure proper installation to restore smooth and quiet operation. Maintaining proper wheel bearing function is essential for vehicle safety, handling, and stability."
+  },
+  {
+    "id": 24,
+    "serviceName": "Transmission Flush",
+    "image": "https://i.ibb.co/bP3v8yZ/images-1.jpg",
+    "price": 80,
+    "serviceDetails": "A transmission flush is a maintenance service that involves flushing out old, contaminated transmission fluid and replacing it with fresh fluid. The transmission is a critical component of your vehicle's drivetrain, responsible for shifting gears and transferring power from the engine to the wheels. Over time, transmission fluid can become contaminated with dirt, debris, and metal particles, leading to increased friction and wear on transmission components. Our technicians will use specialized equipment to flush the old fluid from the transmission, torque converter, and cooler lines and refill it with the correct type and amount of fluid recommended by the manufacturer. This helps ensure smooth shifting, extended transmission life, and optimal performance. Regular transmission flushes are essential for maintaining proper transmission function and preventing costly repairs."
+  },
+  {
+    "id": 25,
+    "serviceName": "Fuel Injector Cleaning",
+    "image": "https://i.ibb.co/tL5kqYT/download-6.jpg",
+    "price": 30,
+    "serviceDetails": "Fuel injector cleaning is a maintenance service that involves removing carbon deposits, varnish, and other contaminants from your vehicle's fuel injectors. Fuel injectors are responsible for delivering fuel into the engine's combustion chamber in a fine mist for efficient combustion. Over time, fuel injectors can become clogged or restricted, leading to poor engine performance, rough idling, and reduced fuel efficiency. Our technicians will use specialized cleaning agents and equipment to flush out the fuel injectors and remove any buildup or deposits. We'll also inspect the fuel lines, fuel filter, and fuel pressure regulator for signs of contamination or damage. Cleaning the fuel injectors restores proper fuel flow, atomization, and combustion, resulting in improved engine performance, fuel economy, and emissions."
+  },
+  {
+    "id": 26,
+    "serviceName": "Air Conditioning System Check",
+    "image": "https://i.ibb.co/8DC1ydM/download.jpg",
+    "price": 25,
+    "serviceDetails": "An air conditioning system check is a diagnostic service that involves inspecting and testing your vehicle's air conditioning system for proper operation and performance. The air conditioning system is responsible for cooling and dehumidifying the air inside the vehicle's cabin, providing comfort during hot weather. Our technicians will visually inspect the air conditioning components, including the compressor, condenser, evaporator, and refrigerant lines, for signs of leaks, damage, or wear. We'll also perform a system pressure test and use diagnostic equipment to check for proper refrigerant levels, compressor operation, and cabin temperature control. If any issues are found during the inspection, we'll recommend the necessary repairs or adjustments to ensure your air conditioning system operates efficiently and reliably."
+  },
+  {
+    "id": 27,
+    "serviceName": "Spark Plug Replacement",
+    "image": "https://i.ibb.co/Jsd4Qcw/download-1.jpg",
+    "price": 40,
+    "serviceDetails": "Spark plug replacement is a maintenance service that involves removing old, worn spark plugs from the engine and installing new ones. Spark plugs play a crucial role in the ignition process, producing the spark needed to ignite the air-fuel mixture in the engine's cylinders. Over time, spark plugs can become fouled, worn, or corroded, leading to misfires, rough idling, and reduced fuel efficiency. Our technicians will inspect the spark plugs during routine maintenance services and recommend replacement if they are worn out or past their recommended service interval. Installing new spark plugs can improve engine performance, fuel economy, and emissions, ensuring your vehicle runs smoothly and efficiently."
+  },
+  {
+    "id": 28,
+    "serviceName": "Steering Rack Replacement",
+    "image": "https://i.ibb.co/ZHRh9TW/download-2.jpg",
+    "price": 300,
+    "serviceDetails": "Steering rack replacement is a significant repair service that involves removing the old, worn steering rack from your vehicle and installing a new one. The steering rack is a critical component of the steering system, responsible for converting the rotational motion of the steering wheel into lateral motion to turn the wheels. Over time, the steering rack can wear out due to normal use, age, or damage, leading to symptoms such as steering play, stiffness, or fluid leaks. Our technicians will inspect the steering rack for signs of wear, play, or leakage and recommend replacement if necessary. We'll use high-quality replacement parts and ensure proper alignment and calibration to restore precise steering control and vehicle handling. Steering rack replacement is essential for safe and reliable driving, especially at high speeds or in emergency situations."
+  },
+  {
+    "id": 29,
+    "serviceName": "Brake Fluid Flush",
+    "image": "https://i.ibb.co/8sFQ3CB/download-3.jpg",
+    "price": 60,
+    "serviceDetails": "A brake fluid flush is a maintenance service that involves removing old, contaminated brake fluid from your vehicle's brake system and replacing it with fresh fluid. Brake fluid plays a crucial role in transmitting hydraulic pressure from the brake pedal to the brake calipers or wheel cylinders, causing the brake pads or shoes to press against the brake rotors or drums and slow down the vehicle. Over time, brake fluid can absorb moisture from the air, become contaminated with dirt or debris, or break down due to heat or age, leading to decreased braking performance or brake system failure. Our technicians will perform a complete flush of the brake system to remove any old fluid, air bubbles, or contaminants and refill it with the appropriate type and amount of brake fluid recommended by the manufacturer. This helps ensure proper brake operation, responsiveness, and safety, especially during emergency stops or heavy braking."
+  },
+  {
+    "id": 30,
+    "serviceName": "Oxygen Sensor Replacement",
+    "image": "https://i.ibb.co/Br80Cyv/images.jpg",
+    "price": 80,
+    "serviceDetails": "Oxygen sensor replacement is a maintenance service that involves removing old, worn oxygen sensors from your vehicle's exhaust system and installing new ones. Oxygen sensors play a crucial role in monitoring the oxygen levels in the exhaust gases and providing feedback to the engine control module to adjust fuel delivery and optimize combustion. Over time, oxygen sensors can become contaminated, worn out, or malfunctioning, leading to poor engine performance, increased emissions, or reduced fuel efficiency. Our technicians will use diagnostic equipment to identify any faulty oxygen sensors and recommend replacement if necessary. We'll use high-quality replacement sensors and ensure proper installation and calibration to restore optimal engine performance and emissions compliance. Oxygen sensor replacement is essential for maintaining fuel efficiency, reducing emissions, and prolonging the life of your vehicle's catalytic converter."
+  }
+]
